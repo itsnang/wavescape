@@ -8,8 +8,8 @@ import { Logo } from "@/components/logo"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "SDFM 2520 - Premium Hoodies",
-  description: "Premium streetwear and comfortable hoodies",
+  title: "Wavescape",
+  description: "We are WaveScape - sound, soul, and pure vibes.",
 }
 
 export default function RootLayout({

@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/button"
 
 const images = [
   "https://i.giphy.com/xUOxeUqZbV4vSPBXt6.webp",
-  "https://i.giphy.com/xUOxeUqZbV4vSPBXt6.webp",
+  "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnExemJ0aHU2Z2t3NGEybWk2c2c5MnlhcHIyYTkwcGxlYjYybnFraiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NNoiOYArMdd6w/giphy.gif",
 ]
 
 export function AutoSliderBanner() {
@@ -47,11 +47,11 @@ export function AutoSliderBanner() {
       ))}
       <div className="absolute inset-0 bg-black bg-opacity-50 flex flex-col items-center justify-center">
         <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl text-gray-100 text-center mb-4">
-          Premium Streetwear
+         WaveScape
         </h1>
-        <p className="text-xl text-gray-300 text-center mb-8">Elevate Your Style</p>
+        <p className="text-xl text-gray-300 text-center mb-8">sound, soul, and pure vibes.</p>
         <Button onClick={handleShopClick} size="lg" variant="outline">
-          SHOP
+          View more
         </Button>
       </div>
     </div>
