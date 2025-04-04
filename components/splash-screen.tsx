@@ -50,8 +50,8 @@ export function SplashScreen() {
     >
       <div className="relative w-48 h-48 mb-8">
         <Image
-          src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo%20sdfm-gDlxg0zxe6wVV9o5cISteykVa4LQhz.png"
-          alt="SDFM 2520"
+          src="/wavescape-second.png"
+          alt="Wavescape"
           fill
           className="object-contain"
           priority

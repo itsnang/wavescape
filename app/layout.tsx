@@ -8,8 +8,8 @@ import { Logo } from "@/components/logo"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "SDFM 2520 - Premium Hoodies",
-  description: "Premium streetwear and comfortable hoodies",
+  title: "Wavescape",
+  description: "We are WaveScape - sound, soul, and pure vibes.",
 }
 
 export default function RootLayout({
@@ -27,7 +27,7 @@ export default function RootLayout({
         {children}
         <footer className="w-full py-6 px-4 bg-dark-600 text-gray-400">
           <div className="container mx-auto text-center">
-            <p>&copy; 2023 SDFM 2520. All rights reserved.</p>
+            <p>&copy; 2025 WaveScape. All rights reserved.</p>
           </div>
         </footer>
       </body>
